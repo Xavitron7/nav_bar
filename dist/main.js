@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#news-head").addEventListener("click",(e=>{document.querySelector("#news-drop").classList.toggle("hidden")}))})();
